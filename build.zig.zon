@@ -1,0 +1,11 @@
+.{
+    .name = .hardcaml_playground,
+    .version = "0.1.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "tests",
+    },
+    .fingerprint = 0x1f86bc6352744de1,
+}
