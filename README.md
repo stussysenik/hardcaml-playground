@@ -1,5 +1,8 @@
 # hardcaml-playground
 
+![Demo](demo.gif)
+
+
 A 3D wireframe renderer for the M5StickC (ESP32 + 80x160 display), built from scratch in Zig. Runs on desktop via SDL2 simulator.
 
 > **This is a teaching project.** Every source file is written to teach a concept — fixed-point math, CORDIC trigonometry, HAL abstraction, double buffering, Z-buffer rendering, and more. The code comments explain *why*, not just *what*.
